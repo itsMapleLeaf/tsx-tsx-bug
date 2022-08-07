@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "tsx main.ts"
+  },
+  "dependencies": {
+    "tsx": "^3.8.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
